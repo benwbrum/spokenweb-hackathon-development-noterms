@@ -1,0 +1,194 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-unknown.json",
+  "type": "AnnotationPage",
+  "label": "Unknown",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-unknown-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<sup><a href=\"Cut or edit made in tape, Unknown amount of time elapsed\">w</a></sup>. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-unknown-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ambient Sound <sup><a href=\"voices\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2465.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-unknown-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<sup><a href=\"Cut or edit made in tape. Unknown amount of time elapsed\">w</a></sup>.  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2484.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-unknown-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<sup><a href=\"Cut or edit made in tape. Unknown amount of time elapsed\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3843.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-unknown-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<sup><a href=\"Cut or edit made in tape. Unknown amount of time elapsed\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3936.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968-canvas-1-unknown-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ambient Sound <sup><a href=\"music; recorded track\">w</a></sup>. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joseph-langland-at-sir-george-williams-university-the-poetry-series-8-march-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3977.0"
+        }
+      }
+    }
+  ]
+}
