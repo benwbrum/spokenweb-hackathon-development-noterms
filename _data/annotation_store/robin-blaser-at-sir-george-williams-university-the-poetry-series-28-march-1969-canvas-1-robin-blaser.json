@@ -1,0 +1,1000 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser.json",
+  "type": "AnnotationPage",
+  "label": "Robin Blaser",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The marvelous thing about that list of books is that The Boston Poems, in fact, I think I will read one of those, was published and I decided I didn't like the book so there's one copy in the world and I own that copy. So I'm not sure it's fair, to call that a book. I don't think I--but I think I will read, open with that, it now dates back so many years, back to the Boston <sup><a href=\"https://www.wikidata.org/wiki/Q100\">w</a></sup> world, when <sup><a href=\"Jack\">w</a></sup> Spicer, and <sup><a href=\"John\">w</a></sup> Wieners <sup><a href=\"https://www.wikidata.org/wiki/Q1702153\">w</a></sup> and I were there together, and a very different scene from anything. <sup><a href=\"Charles\">w</a></sup> Olson <sup><a href=\"https://www.wikidata.org/wiki/Q922978\">w</a></sup> was at Black Mountain <sup><a href=\"https://www.wikidata.org/wiki/Q2413277\">w</a></sup>, and Wieners in the centre at Boston. This poem is \"The Hunger of Sound\", and the date of it would be 1956. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "180.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"The Hunger of Sound\" from The Boston Poems <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "234.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now I, I'm a little confused because I've changed the reading now because it was very nice to have people ask for things, so I think I'll read \"Cups\", which is a...I've worked since 1960 on a book called The Holy Forest and that is composed of several serial poems, the first of which is \"Cups\", and that is followed by one called \"The Park\", and one called \"The Faerie Queen\", then \"The Moth Poem\", and then the, then there is a group, translated from Gérard de Nerval <sup><a href=\"https://www.wikidata.org/wiki/Q191305\">w</a></sup>, \"Les Chimeres\", which is also a serial poem, and finally a group called \"The Holy Forest\", an unfinished group, and I thought I would read \"Cups\" and then a section, do a little thing on my poetics, an intermission, and then read, if you still are with me, the section I've just finished, called \"The Holy Forest\". This is \"Cups\".",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "638.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Cups\" <sup><a href=\"from Cups\">w</a></sup>. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "707.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now I'm going to move to my essay called \"The Fire\", which is meant to, is meant to talk about what people call poetics, I guess. It certainly talks about what I intend to do, what I am doing. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1378.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"The Fire\" <sup><a href=\"published later in The Fire: Collected Essays of Robin Blaser\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1408.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Resumes reading \"The Fire\". ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1918.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I won't go on to the rest of the essay, I think that's enough. Now...should we have a break, for a minute? Is it the right time for a break? Do you want a break? Because the next section has thirty-two poems, and not great long ones, but it's a move through the...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2609.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “In A Dark” <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2638.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “The Prints” <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2657.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads “Love” <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2687.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"The Private I\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2718.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Song\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2778.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Translation\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2812.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"1st Tale: Over\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2843.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"2nd Tale: Returned\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2889.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \": At Last\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2988.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Aphrodite of the Leaves\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3029.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Winter Words\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3062.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"The Stories\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3099.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"The City\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3143.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"The Translator: A Tale\" <sup><a href=\"from The Moth Poem\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3192.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads <sup><a href=\"“Sophia Nichols,” published later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3271.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"A Gift: Homage to Creeley\" <sup><a href=\"published later as “A Gift” in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3394.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Bottom's Dream\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3450.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"The Finder” <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3498.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Out of the Window,\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3575.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Merlin\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3645.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"The Cry of Merlin\" <sup><a href=\"collected later in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3704.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I stood between the two in the marriage ceremony and replaced the psalms that are given, at one point, that was my gift as well as my blessing, and this is the poem I wrote for that wedding. \"Image-Nation 6: a marriage poem for Gladys Hindmarch and Cliff Anston\".",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3837.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Image-Nation 6: a marriage poem for Gladys Hindmarch and Cliff Anston\" <sup><a href=\"published later as “Image-Nation 6 (epithalamium)” in The Holy Forest\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3855.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-robin-blaser-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Thank you.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3927.0"
+        }
+      }
+    }
+  ]
+}

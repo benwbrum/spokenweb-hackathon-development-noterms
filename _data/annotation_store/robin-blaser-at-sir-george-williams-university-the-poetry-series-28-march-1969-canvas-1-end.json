@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-end.json",
+  "type": "AnnotationPage",
+  "label": "END",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969-canvas-1-end-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<sup><a href=\"Cut off abruptly\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/robin-blaser-at-sir-george-williams-university-the-poetry-series-28-march-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3930.0"
+        }
+      }
+    }
+  ]
+}
