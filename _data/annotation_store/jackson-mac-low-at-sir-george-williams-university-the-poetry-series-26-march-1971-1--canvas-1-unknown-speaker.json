@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-1--canvas-1-unknown-speaker.json",
+  "type": "AnnotationPage",
+  "label": "Unknown Speaker",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-1--canvas-1-unknown-speaker-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is the one you wanted some light percussive stuff?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/jackson-mac-low-at-sir-george-williams-university-the-poetry-series-26-march-1971-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
+  ]
+}
