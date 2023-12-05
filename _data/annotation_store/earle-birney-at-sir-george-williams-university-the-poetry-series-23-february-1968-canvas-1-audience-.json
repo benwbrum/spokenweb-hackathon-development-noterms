@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-audience-.json",
+  "type": "AnnotationPage",
+  "label": "Audience ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968-canvas-1-audience--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Laughter.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/earle-birney-at-sir-george-williams-university-the-poetry-series-23-february-1968/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1760.0"
+        }
+      }
+    }
+  ]
+}
