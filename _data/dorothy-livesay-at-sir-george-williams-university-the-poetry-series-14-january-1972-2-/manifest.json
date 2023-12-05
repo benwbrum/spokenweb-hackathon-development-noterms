@@ -8,6 +8,24 @@
         "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/dorothy-livesay-at-sir-george-williams-university-the-poetry-series-14-january-1972-2-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1934.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/dorothy-livesay-at-sir-george-williams-university-the-poetry-series-14-january-1972-2--canvas-1-unknown.json",
+            "label": {
+              "none": ["Unknown"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/dorothy-livesay-at-sir-george-williams-university-the-poetry-series-14-january-1972-2--canvas-1-dorothy-livesay.json",
+            "label": {
+              "none": ["Dorothy Livesay"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/dorothy-livesay-at-sir-george-williams-university-the-poetry-series-14-january-1972-2-/canvas-1/paintings",
