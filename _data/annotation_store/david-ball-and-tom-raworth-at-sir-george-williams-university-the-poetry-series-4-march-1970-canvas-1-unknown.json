@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970-canvas-1-unknown.json",
+  "type": "AnnotationPage",
+  "label": "Unknown",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970-canvas-1-unknown-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Silence <sup><a href=\"cut or edit in tape\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/david-ball-and-tom-raworth-at-sir-george-williams-university-the-poetry-series-4-march-1970/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1097.0"
+        }
+      }
+    }
+  ]
+}
