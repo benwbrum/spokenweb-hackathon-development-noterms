@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-annotation.json",
+  "type": "AnnotationPage",
+  "label": "Annotation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3--canvas-1-annotation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"The Call of the Wild,\" Part III <sup><a href=\"published later in Turtle Island\">w</a></sup>. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/gary-snyder-at-sir-george-williams-university-the-poetry-series-5-november-1971-3-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "112.06"
+        }
+      }
+    }
+  ]
+}
