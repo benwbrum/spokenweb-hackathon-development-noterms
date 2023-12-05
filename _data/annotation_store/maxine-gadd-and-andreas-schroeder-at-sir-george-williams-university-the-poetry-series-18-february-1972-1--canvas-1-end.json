@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-1--canvas-1-end.json",
+  "type": "AnnotationPage",
+  "label": "END",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-1--canvas-1-end-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<sup><a href=\"Unknown amount of time elapsed before start of next recording\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/maxine-gadd-and-andreas-schroeder-at-sir-george-williams-university-the-poetry-series-18-february-1972-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1269.0"
+        }
+      }
+    }
+  ]
+}
