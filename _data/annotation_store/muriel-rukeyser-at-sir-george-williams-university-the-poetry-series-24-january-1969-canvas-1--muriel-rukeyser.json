@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/muriel-rukeyser-at-sir-george-williams-university-the-poetry-series-24-january-1969-canvas-1--muriel-rukeyser.json",
+  "type": "AnnotationPage",
+  "label": " Muriel Rukeyser",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "muriel-rukeyser-at-sir-george-williams-university-the-poetry-series-24-january-1969-canvas-1--muriel-rukeyser-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Elegy in Joy\" <sup><a href=\"from Elegies and collected later in Collected Poems\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/muriel-rukeyser-at-sir-george-williams-university-the-poetry-series-24-january-1969/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/muriel-rukeyser-at-sir-george-williams-university-the-poetry-series-24-january-1969/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1577.0"
+        }
+      }
+    }
+  ]
+}
