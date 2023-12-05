@@ -8,6 +8,16 @@
         "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2132.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1--canvas-1-f-r--scott.json",
+            "label": {
+              "none": ["F.R. Scott"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/f-r-scott-at-sir-george-williams-university-the-poetry-series-22-february-1969-1-/canvas-1/paintings",
