@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-annotation.json",
+  "type": "AnnotationPage",
+  "label": "Annotation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2--canvas-1-annotation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"The Fat Man\" <sup><a href=\"published later in The Fat Man\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/joe-rosenblatt-and-john-newlove-at-sir-george-williams-university-the-poetry-series-9-february-1968-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1818.0"
+        }
+      }
+    }
+  ]
+}
