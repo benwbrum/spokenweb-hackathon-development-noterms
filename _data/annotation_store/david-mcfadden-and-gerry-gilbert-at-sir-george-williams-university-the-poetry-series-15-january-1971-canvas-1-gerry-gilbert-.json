@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/annotations/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert-.json",
+  "type": "AnnotationPage",
+  "label": "Gerry Gilbert ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971-canvas-1-gerry-gilbert--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reads \"Garden\" <sup><a href=\"from Money\">w</a></sup>.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://benwbrum.github.io/spokenweb-hackathon-development-noterms/david-mcfadden-and-gerry-gilbert-at-sir-george-williams-university-the-poetry-series-15-january-1971/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "2255.0"
+        }
+      }
+    }
+  ]
+}
